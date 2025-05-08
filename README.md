@@ -47,7 +47,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChanuDahamneth&repo=FinFlow-Financial-Tracking-Mobile-App&theme=radical" />
   </a>
   <a href="https://github.com/ChanuDahamneth/another-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChanuDahamneth&repo=another-project&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChanuDahamneth&repo=workForceManagementSystem&theme=radical" />
   </a>
 </div>
 
