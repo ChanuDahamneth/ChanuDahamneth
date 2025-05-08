@@ -43,8 +43,8 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/ChanuDahamneth/project-name">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChanuDahamneth&repo=project-name&theme=radical" />
+  <a href="https://github.com/ChanuDahamneth/FinFlow-Financial-Tracking-Mobile-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChanuDahamneth&repo=FinFlow-Financial-Tracking-Mobile-App&theme=radical" />
   </a>
   <a href="https://github.com/ChanuDahamneth/another-project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChanuDahamneth&repo=another-project&theme=radical" />
