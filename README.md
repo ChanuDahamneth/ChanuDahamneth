@@ -57,7 +57,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChanuDahamneth&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChanuDahamneth&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ChanuDahamneth&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanuDahamneth&layout=compact&hide_border=true&title_color=0CE6F2&text_color=c9d1d9&bg_color=0d1117" 
+  alt="Most Used Languages" height="180em" />
 </div>
  <br/> <br/>
 ---
